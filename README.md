@@ -1,25 +1,38 @@
 # Hi, I'm Melisa Subasi 👋  
 
-🎓 M.Sc. in Applied AI for Digital Production Management - Deggendorf Institute of Technology
-🎓 B.Sc. in Computer Engineering – TED University  
+🎓 M.Sc. in Applied AI for Digital Production Management  
+Deggendorf Institute of Technology  
+
+🎓 B.Sc. in Computer Engineering  
+TED University  
+
+AI-focused Computer Engineer specializing in optimization and intelligent systems.  
+Currently developing AI-driven solutions for production scheduling and recommendation systems.
+
+---
 
 ## 🔥 Current Projects
+
 🔹 Smart Production Scheduler  
 Constraint Programming based production scheduling system (P||Cmax)  
 Built with Google OR-Tools  
+
 🔹 Movie & Series Recommendation System  
 AI-based recommendation engine using similarity modeling  
-Focused on user preference learning and content filtering
+Focused on personalized content filtering  
 
-## 📊 GitHub Stats
+---
 
-![Melisa's GitHub stats](https://github-readme-stats.vercel.app/api?username=msubasii&show_icons=true)
+## 🛠 Tech Stack
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=msubasii&layout=compact)
+**Languages:** Python, Java, C#, JavaScript  
+**Frontend:** React  
+**Backend:** Node.js, .NET  
+**Databases:** SQL  
+**AI & ML:** Machine Learning, Deep Learning, NLP, OpenCV, OR-Tools  
 
-🛠 Tech Stack  
-Python • Java • C# • JavaScript  
-React • Node.js • .NET • SQL  
-ML • Deep Learning • NLP • OpenCV  
+---
 
-📫 Contact: subasimelisa03@gmail.com
+📫 Contact: subasimelisa03@gmail.com  
+
+Open to AI, optimization and digital production related collaborations.
