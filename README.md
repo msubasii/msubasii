@@ -1,4 +1,4 @@
-Hi, I'm Melisa Subasi 👋  
+## Hi, I'm Melisa Subasi 👩🏻  
 
 👩🏻‍🏫 M.Sc. in Applied AI for Digital Production Management - Deggendorf Institute of Technology  
 
@@ -9,7 +9,7 @@ Currently developing AI-driven solutions for production scheduling and recommend
 
 ---
 
-👩🏼‍💻 Current Projects  
+## 👩🏼‍💻 Current Projects  
 
 🔹 Smart Production Scheduler  
 Constraint Programming based production scheduling system (P||Cmax)  
@@ -21,7 +21,7 @@ Focused on personalized content filtering
 
 ---
 
-⚙️ Tech Stack  
+## ⚙️ Tech Stack  
 
 Languages: Python, Java, C#, JavaScript  
 Frontend: React  
@@ -31,6 +31,6 @@ AI & ML: Machine Learning, Deep Learning, NLP, OpenCV, OR-Tools
 
 ---
 
-📫 Contact: subasimelisa03@gmail.com  
+## 📫 Contact: subasimelisa03@gmail.com  
 
 Open to AI, optimization and digital production related collaborations.
