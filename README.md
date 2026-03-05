@@ -19,6 +19,10 @@ Built with Google OR-Tools
 AI-based recommendation engine using similarity modeling  
 Focused on personalized content filtering  
 
+🔹 Cozy Cooking Timer
+Mobile cooking timer app built with Flutter, designed to manage 
+multiple cooking timers for different recipes.
+
 ---
 
 ## ⚙️ Tech Stack  
