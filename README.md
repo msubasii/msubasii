@@ -9,19 +9,19 @@ Currently developing AI-driven solutions for production scheduling and recommend
 
 ---
 
-## 👩🏼‍💻 Current Projects  
+## 👩🏼‍💻 Current Projects
 
-🔹 Smart Production Scheduler  
-Constraint Programming based production scheduling system (P||Cmax)  
-Built with Google OR-Tools  
+🔹 **Smart Production Scheduler**  
+Constraint programming–based production scheduling system *(P||Cmax)*  
+Built with **Google OR-Tools**
 
-🔹 Movie & Series Recommendation System  
-AI-based recommendation engine using similarity modeling  
-Focused on personalized content filtering  
+🔹 **Movie & Series Recommendation System**  
+AI-based recommendation engine using **similarity modeling**  
+Focused on **personalized content filtering**
 
-🔹 Cozy Cooking Timer
-Mobile cooking timer app built with Flutter, designed to manage 
-multiple cooking timers for different recipes.
+🔹 **Cozy Cooking Timer**  
+Mobile cooking timer app built with **Flutter**  
+Designed to manage **multiple cooking timers for different recipes**
 
 ---
 
