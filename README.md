@@ -1,7 +1,8 @@
 <h1 align="center">Hi, I'm Melisa Subasi 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=6C63FF&center=true&vCenter=true&width=550&lines=AI+Engineer+%7C+LLMs+%2F+RAG+%2F+Multi-Agent+Systems; Master+of+Eng+Applied+AI+%40+Deggendorf+Institute+of+Technology" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=6C63FF&center=true&vCenter=true&width=550&lines=AI+Engineer+%7C+LLMs+%2F+RAG+%2F+Multi-Agent+Systems;+
+  Master+of+Eng+Applied+AI+%40+Deggendorf+Institute+of+Technology" alt="Typing SVG" />
 </p>
 
 <p align="center">
