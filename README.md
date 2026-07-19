@@ -22,9 +22,7 @@
 
 ### Tech Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,cs,js,react,nodejs,dotnet,mysql,mongodb,git,arduino,unity&theme=light" />
-</p>
+`Python` `Java` `C#` `JavaScript` `React` `Node.js` `.NET` `SQL` `MongoDB`
 
 `LLMs` `RAG` `NLP` `PyTorch` `HuggingFace` `LangChain` `Vector DBs` `OpenCV`
 
