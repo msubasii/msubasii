@@ -12,11 +12,11 @@
 
 <br>
 
-- 🎓 MEng student in **Applied AI for Digital Production Management** @ Deggendorf Institute of Technology
-- 🎓 BSc in **Computer Engineering** @ TED University
-- 🤖 Hands-on experience with **LLM-powered multi-agent systems** (RAG, NLP, LangChain)
-- 🏭 Delivered production-ready AI solutions across **aerospace, energy, and manufacturing**
-- 🌀 Currently Scrum Master on an AI bootcamp team building a multi-agent drug-safety checker
+- MEng student in **Applied AI for Digital Production Management** @ Deggendorf Institute of Technology
+- BSc in **Computer Engineering** @ TED University
+- Hands-on experience with **LLM-powered multi-agent systems** (RAG, NLP, LangChain)
+- Delivered production-ready AI solutions across **aerospace, energy, and manufacturing**
+- Currently Scrum Master on an AI bootcamp team building a multi-agent drug-safety checker
 
 <br>
 
